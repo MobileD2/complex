@@ -1,0 +1,7 @@
+{
+  "name": "complex",
+  "version": "0.2.2",
+  "dependencies": {
+    "jquery": ">=1.10.2"
+  }
+}

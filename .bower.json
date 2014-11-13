@@ -1,0 +1,15 @@
+{
+  "name": "complex",
+  "dependencies": {
+    "jquery": ">=1.10.2"
+  },
+  "homepage": "https://github.com/katsgeorgeek/complex",
+  "_release": "99fc88a482",
+  "_resolution": {
+    "type": "commit",
+    "commit": "99fc88a482b2679f3d0f658f53038504a6358719"
+  },
+  "_source": "git://github.com/katsgeorgeek/complex.git",
+  "_target": "99fc88a482b2679f3d0f658f53038504a6358719",
+  "_originalSource": "git://github.com/katsgeorgeek/complex.git"
+}
